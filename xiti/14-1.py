@@ -8,3 +8,4 @@ class BankAccount:
         self.zhanghuming = zhanghuming
         self.zhanghao = zhanghao
         self.yue = yue
+    def tiqu()
